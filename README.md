@@ -13,7 +13,7 @@ Lancements enregistrés le 18 juin 2026, avec un seul jeu de paramètres physiqu
 | | Valeur |
 |---|---|
 | Lancements enregistrés | 12 |
-| Lancements sans aucun essai écrit (interrompus) | 4 |
+| Lancements sans aucun essai écrit (cause non analysée) | 4 |
 | Essais terminés | 8 |
 | Saisies réussies | **0 / 8** |
 | Hauteur de levée mesurée | de -5,6 mm à 0,0 mm |
